@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Biến đi',
     question:'Liệu một lần nữa cho tui được bên Ngọc',
     btnReply: 'Gửi nè',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Bà trả lời như nào cũng ra dòng này thui á hihi',
     mess: '...',
     messDesc: 'Mong sẽ được gặp Ngọc và đi cùng nhau hoài luôn',
     btnAccept: 'Okiiiii lun <3',
